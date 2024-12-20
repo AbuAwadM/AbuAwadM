@@ -26,7 +26,7 @@ Here are some of the certifications I have earned:
 ![abuawadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuawadd&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/MohammmadAbuAwad)
+- [LinkedIn](https://www.linkedin.com/in/mohammadabuawad)
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abuawadd&theme=radical)
