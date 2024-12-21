@@ -23,7 +23,7 @@ Here are some of the certifications I have earned:
 
 
 ### 📈 GitHub Stats
-![abuawadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuawadd&show_icons=true&theme=radical)
+![abuawadd's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuAwadM&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mohammadabuawad)
