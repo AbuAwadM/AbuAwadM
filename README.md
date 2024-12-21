@@ -1,4 +1,4 @@
-# Hi there, I'm abuawadd 👋
+# Hi there, I'm Mohammad Abu Awad 👋
 
 ### 👨‍💻 About Me
 I am a computer science student with a keen interest in data science, and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
